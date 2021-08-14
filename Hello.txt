@@ -1,1 +1,3 @@
 Vishnupriya
+I am new to git
+I've been learning git from 2 hours
